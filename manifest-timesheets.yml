@@ -6,6 +6,6 @@ applications:
   memory: 1G
   instances: 1
   env:
-    REGISTRATION_SERVER_ENDPOINT: http://timesheets-pal-parvez2.apps.pcf.paltraining.perficient.com
+    REGISTRATION_SERVER_ENDPOINT: http://registration-pal-parvez2.apps.pcf.paltraining.perficient.com
   services:
   - tracker-timesheets-database
